@@ -1,4 +1,4 @@
-# Book-of-Computer-Science
+# Learning-of-Computer-Science
 
 - 计算机操作系统 第三版 庞丽萍 课后部分答案
 - 算法图解
@@ -6,3 +6,4 @@
 - flex & bison 手册
 - 编译原理（第三版） 清华 课后部分答案
 - [计算机组原+原理相关](https://www.bilibili.com/video/av21376839/)
+- [CSP准备]
