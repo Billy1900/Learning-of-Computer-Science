@@ -8,3 +8,4 @@
 
 # 3.高阶
 - [高级排序算法](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/Algorithm/%E9%AB%98%E7%BA%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/advanced_sorting.md): 归并排序，快速排序
+- [树](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/Algorithm/%E6%A0%91/tree.md): 二叉树
