@@ -8,3 +8,4 @@
 - [计算机组原+原理相关](https://www.bilibili.com/video/av21376839/)
 - [CSP准备](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/CSP.md)
 - [Python 算法](https://github.com/Billy1900/Learning-of-Computer-Science/tree/master/Algorithm)
+- [计算机网络自顶向下第七版答案](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/Solutions-7th-Edition.docx)
