@@ -16,3 +16,4 @@
   - [华中科技大学数据库实验报告pdf](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93lnq.pdf)
 - [Go入门指南](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/Go%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97-06131123.pdf)
 - [Go语言圣经](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/go%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F.pdf)
+- [Introduction to Probability: MIT open course](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/?tdsourcetag=s_pctim_aiomsg)
