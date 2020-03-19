@@ -38,7 +38,7 @@
 :-- | :--: | :--: | :--:
 [计算机简介](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) | Harvard | 暂无 | [链接](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 
-###<h3 id="CS_math_basic">计算机数学基础</h3>
+### <h3 id="CS_math_basic">计算机数学基础</h3>
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
@@ -92,7 +92,7 @@
 
 暂无，希望大家推荐
 
-##<h2 id="area_study">领域学习</h2>
+## <h2 id="area_study">领域学习</h2>
 恭喜您,您已经较好的掌握所有计算机系学生必备的初级程序设计能力，现在已经具备进入下一阶段的能力了，您可以选择您喜欢的研究方向进行学习，希望再接再励！
 
 如果希望从事工作的话，我们推荐如下的网址给您，这个是谷歌程序员的总结，希望能给您带来帮助。
