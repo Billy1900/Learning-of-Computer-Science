@@ -18,6 +18,7 @@
 
 ## Algorithm
 - [算法图解](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3-python.pdf)
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm): Crack LeetCode, not only how, but also why.
 ## Go Learning
 - [Go入门指南](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/Go%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97-06131123.pdf)
 - [Go语言圣经](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/go%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F.pdf)
