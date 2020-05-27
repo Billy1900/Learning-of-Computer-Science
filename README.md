@@ -24,5 +24,6 @@
 ## Course
 - [Introduction to Probability: MIT open course](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/?tdsourcetag=s_pctim_aiomsg)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [MIT open course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 ## For student who major in CS
 - [CS 学生学习历程](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/CS_MUST.md)
