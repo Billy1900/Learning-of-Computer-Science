@@ -26,5 +26,7 @@
 - [Introduction to Probability: MIT open course](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/?tdsourcetag=s_pctim_aiomsg)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [MIT open course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+- [CS50](https://cs50.harvard.edu/college/2020/fall/#:~:text=Introduction%20to%20the%20intellectual%20enterprises%20of%20computer%20science%20and%20the%20art%20of%20programming.): Introduction to the intellectual enterprises of computer science and the art of programming. 
+
 ## For student who major in CS
 - [CS 学生学习历程](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/CS_MUST.md)
