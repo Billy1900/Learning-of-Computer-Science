@@ -2,8 +2,10 @@
 
 # 1. Mathematical Background
 ## 1.1 Calculus
-- [Thomas Calculus](https://www.academia.edu/38787152/Pdf_Thomas_Calculus_Multivariable_14th_Edition) : Thomas' Calculus helps students reach the level of mathematical proficiency and maturity you require, but with support for students who need it through its balance of clear and intuitive explanations, current applications, and generalized concepts. In the 14th Edition, new co-author Christopher Heil (Georgia Institute of Technology) partners with author Joel Hass to preserve what is best about Thomas' time-tested text while reconsidering every word and every piece of art with today's students in mind. The result is a text that goes beyond memorizing formulas and routine procedures to help students generalize key concepts and develop deeper understanding.
+- [Thomas Calculus](https://www.academia.edu/38787152/Pdf_Thomas_Calculus_Multivariable_14th_Edition): Thomas' Calculus helps students reach the level of mathematical proficiency and maturity you require, but with support for students who need it through its balance of clear and intuitive explanations, current applications, and generalized concepts. In the 14th Edition, new co-author Christopher Heil (Georgia Institute of Technology) partners with author Joel Hass to preserve what is best about Thomas' time-tested text while reconsidering every word and every piece of art with today's students in mind. The result is a text that goes beyond memorizing formulas and routine procedures to help students generalize key concepts and develop deeper understanding.
 
+## 1.2 Linear Algebra
+- [MIT Linear Algebra](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes): This course parallels the combination of theory and applications in Professor Strang’s textbook Introduction to Linear Algebra. The course picks out four key applications in the book: Graphs and Networks; Systems of Differential Equations; Least Squares and Projections; and Fourier Series and the Fast Fourier Transform.
 
 ## Operation system
 - [计算机操作系统 第三版 庞丽萍 课后部分答案](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.docx)
