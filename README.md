@@ -16,7 +16,7 @@ Besides, as the course is too long, people have to spend a lot of time following
 - [Probability for first year mathematicians at Cambridge in winter 2015](http://www.statslab.cam.ac.uk/~rrw1/prob/index.html)
 
 ## 1.4 Statistic
-This course from MIT, named [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm). 
+This course from MIT, named [Statistics for Applications (video)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm). This course offers an in-depth the theoretical foundations for statistical methods that are useful in many applications. The goal is to understand the role of mathematics in the research and development of efficient statistical methods. And for people who prefer slides, this [Site](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) may could help you.
 
 # 2. Core Course in Computer Science
 ## 2.1 Operation system
