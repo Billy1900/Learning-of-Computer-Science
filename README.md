@@ -11,6 +11,10 @@
 ## 1.3 Probabilistic
 - [MIT RES.6-012](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6): Probability is the science of how likely events are to happen. At its simplest, it’s concerned with the roll of a dice, or the fall of the cards in a game. But probability is also vital to science and life more generally. I really recommend this course from MIT, and this book ([Book](http://tomlr.free.fr/Math%E9matiques/Math%20Complete/Probability%20and%20statistics/CRC%20-%20standard%20probability%20and%20Statistics%20tables%20and%20formulae%20-%20DANIEL%20ZWILLINGER.pdf)) is the most comprehensive dictionary of probability and statistics I have ever seen.
 
+Besides, as the course is too long, people have to spend a lot of time following it, there are some lecture notes which could help you have an overview of probalistic quickly.
+- [Probability Theory: STAT310/MATH230](https://statweb.stanford.edu/~adembo/stat-310b/lnotes.pdf)
+- [Probability for first year mathematicians at Cambridge in winter 2015](http://www.statslab.cam.ac.uk/~rrw1/prob/index.html)
+
 ## 1.4 Statistic
 This course from MIT, named [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm). 
 
