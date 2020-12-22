@@ -2,6 +2,8 @@
 
 # 0. Basic/Introduction
 - [CS50](https://cs50.harvard.edu/college/2020/fall/#:~:text=Introduction%20to%20the%20intellectual%20enterprises%20of%20computer%20science%20and%20the%20art%20of%20programming.): Introduction to the intellectual enterprises of computer science and the art of programming. 
+- [CS106B Programming Abstractions](https://web.stanford.edu/class/cs106b/): this is a basic/introductory course from Stanford whose content includes knowledge of object-oriented programming, data structures (collections, graphs, etc.).
+- [Computer Organization & Systems](http://web.stanford.edu/class/cs107/): CS107 is the third course in Stanford's introductory programming sequence. The CS106 courses provide you with a solid foundation in programming methodology and abstractions, and CS107 follows on this to build up and expand your breadth and depth of programming experience and techniques. The course will work from the C programming language down to the microprocessor to de-mystify the machine.
 
 # 1. Mathematical Background
 ## 1.1 Calculus
@@ -26,6 +28,7 @@ This course from MIT, named [Statistics for Applications (video)](https://ocw.mi
 ## 2.3 Computer network
 
 ## 2.4 Algorithm
+- [DESIGN AND ANALYSIS OF ALGORITHMS](http://web.stanford.edu/class/cs161/): This course will cover the basic approaches and mindsets for analyzing and designing algorithms and data structures. Topics include the following: Worst and average case analysis. Recurrences and asymptotics. 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm): Crack LeetCode, not only how, but also why.
 ## 2.5 Computer system
 - [计算机组原+原理相关](https://www.bilibili.com/video/av21376839/)
