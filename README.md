@@ -21,10 +21,10 @@ Besides, as the course is too long, people have to spend a lot of time following
 This course from MIT, named [Statistics for Applications (video)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm). This course offers an in-depth the theoretical foundations for statistical methods that are useful in many applications. The goal is to understand the role of mathematics in the research and development of efficient statistical methods. And for people who prefer slides, this [Site](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) may could help you.
 
 # 2. Core Course in Computer Science
-## 2.1 Operation system
-
+## 2.1 Operating system
+- [CS 140: Operating Systems (Spring 2020)](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php): This class introduces the basic facilities provided by modern operating systems.
 ## 2.2 Compiler
-
+- [CS143 compilers](http://web.stanford.edu/class/cs143/)
 ## 2.3 Computer network
 
 ## 2.4 Algorithm
@@ -32,7 +32,8 @@ This course from MIT, named [Statistics for Applications (video)](https://ocw.mi
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm): Crack LeetCode, not only how, but also why.
 ## 2.5 Computer system
 - [计算机组原+原理相关](https://www.bilibili.com/video/av21376839/)
-
+## 2.6 Database
+- [Data Management and Data Systems](https://cs145-fa19.github.io/): This course covers how to use databases in applications, first principles on how to scale for large data sets and how to design good data systems.
 
 ## Course
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
