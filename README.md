@@ -33,6 +33,7 @@ This course from MIT, named [Statistics for Applications (video)](https://ocw.mi
 ## 2.4 Algorithm
 - [DESIGN AND ANALYSIS OF ALGORITHMS](http://web.stanford.edu/class/cs161/): This course will cover the basic approaches and mindsets for analyzing and designing algorithms and data structures. Topics include the following: Worst and average case analysis. Recurrences and asymptotics. 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm): Crack LeetCode, not only how, but also why.
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.
 ## 2.5 Computer/Digital system design/architecture
 - [计算机组原+原理相关](https://www.bilibili.com/video/av21376839/)
 ## 2.6 Database
