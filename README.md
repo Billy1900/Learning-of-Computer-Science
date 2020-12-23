@@ -4,6 +4,7 @@
 - [CS50](https://cs50.harvard.edu/college/2020/fall/#:~:text=Introduction%20to%20the%20intellectual%20enterprises%20of%20computer%20science%20and%20the%20art%20of%20programming.): Introduction to the intellectual enterprises of computer science and the art of programming. 
 - [CS106B Programming Abstractions](https://web.stanford.edu/class/cs106b/): this is a basic/introductory course from Stanford whose content includes knowledge of object-oriented programming, data structures (collections, graphs, etc.).
 - [Computer Organization & Systems](http://web.stanford.edu/class/cs107/): CS107 is the third course in Stanford's introductory programming sequence. The CS106 courses provide you with a solid foundation in programming methodology and abstractions, and CS107 follows on this to build up and expand your breadth and depth of programming experience and techniques. The course will work from the C programming language down to the microprocessor to de-mystify the machine.
+- [Mathematical foundations of computing](http://web.stanford.edu/class/archive/cs/cs103/cs103.1184/): This course is about mathematical techniques that are useful in computer science, to analyze algorithms and prove impossibility results. The course has four parts: (1) introduction to the kind of discrete mathematics that is useful in computer science, including sets, graphs and proofs by induction; (2) finite automata, which model simple linear-time algorithms and capture the power of regular expressions — we will be able to understand the power and limitation of this class of algorithms inside out; (3) turing machines and undecidability, in which we study the power of arbitrary algorithms that are allowed arbitrarily large running times — we will show that there are several important problems that are unsolvable even under such conditions; (4) complexity theory and NP-completeness, which is concerned with the study of what we can do with efficient algorithms.
 
 # 1. Mathematical Background
 ## 1.1 Calculus
@@ -31,7 +32,7 @@ This course from MIT, named [Statistics for Applications (video)](https://ocw.mi
 ## 2.4 Algorithm
 - [DESIGN AND ANALYSIS OF ALGORITHMS](http://web.stanford.edu/class/cs161/): This course will cover the basic approaches and mindsets for analyzing and designing algorithms and data structures. Topics include the following: Worst and average case analysis. Recurrences and asymptotics. 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm): Crack LeetCode, not only how, but also why.
-## 2.5 Computer system
+## 2.5 Computer/Digital system design/architecture
 - [计算机组原+原理相关](https://www.bilibili.com/video/av21376839/)
 ## 2.6 Database
 - [Data Management and Data Systems](https://cs145-fa19.github.io/): This course covers how to use databases in applications, first principles on how to scale for large data sets and how to design good data systems.
