@@ -25,6 +25,7 @@ This course from MIT, named [Statistics for Applications (video)](https://ocw.mi
 - [CS 140: Operating Systems (Spring 2020)](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php): This class introduces the basic facilities provided by modern operating systems.
 ## 2.2 Compiler
 - [CS143 compilers](http://web.stanford.edu/class/cs143/)
+- [Compiler Explorer](https://godbolt.org/z/bWe77x): Compiler Explorer is a handy website that lets you quickly write C code and see its assembly translation.
 ## 2.3 Computer network
 
 ## 2.4 Algorithm
