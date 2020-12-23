@@ -27,7 +27,7 @@ This course from MIT, named [Statistics for Applications (video)](https://ocw.mi
 - [CS143 compilers](http://web.stanford.edu/class/cs143/)
 - [Compiler Explorer](https://godbolt.org/z/bWe77x): Compiler Explorer is a handy website that lets you quickly write C code and see its assembly translation.
 ## 2.3 Computer network
-
+- [CS 144: Introduction to Computer Networking, Fall 2020](https://cs144.github.io/)
 ## 2.4 Algorithm
 - [DESIGN AND ANALYSIS OF ALGORITHMS](http://web.stanford.edu/class/cs161/): This course will cover the basic approaches and mindsets for analyzing and designing algorithms and data structures. Topics include the following: Worst and average case analysis. Recurrences and asymptotics. 
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm): Crack LeetCode, not only how, but also why.
@@ -36,10 +36,8 @@ This course from MIT, named [Statistics for Applications (video)](https://ocw.mi
 ## 2.6 Database
 - [Data Management and Data Systems](https://cs145-fa19.github.io/): This course covers how to use databases in applications, first principles on how to scale for large data sets and how to design good data systems.
 
-## Course
+## Complementary
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-
-## For student who major in CS
 - [CS 学生学习历程](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/CS_MUST.md)
 
 
