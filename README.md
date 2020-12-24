@@ -23,29 +23,43 @@ Besides, as the course is too long, people have to spend a lot of time following
 ## 1.4 Statistic
 This course from MIT, named [Statistics for Applications (video)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm). This course offers an in-depth the theoretical foundations for statistical methods that are useful in many applications. The goal is to understand the role of mathematics in the research and development of efficient statistical methods. And for people who prefer slides, this [Site](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) may could help you, and chinese version [blog](https://zhuanlan.zhihu.com/p/29758751).
 
+## 1.5 Applied Mathematics for computer science
+In some ways, computer science is an overgrown branch of applied mathematics. While many software engineers try—and to varying degrees succeed—at ignoring this, we encourage you to embrace it with direct study. Doing so successfully will give you an enormous competitive advantage over those who don’t. 
+
+The most relevant area of math for CS is broadly called “discrete mathematics”, where “discrete” is the opposite of “continuous” and is loosely a collection of interesting applied math topics outside of calculus. Given the vague definition, it’s not meaningful to try to cover the entire breadth of “discrete mathematics”. A more realistic goal is to build a working understanding of logic, combinatorics and probability, set theory, graph theory, and a little of the number theory informing cryptography. Linear algebra is an additional worthwhile area of study, given its importance in computer graphics and machine learning.
+
+For a more advanced treatment, we suggest [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf), the book-length lecture notes for the MIT course of the same name.
 
 
 # 2. Core Course in Computer Science
 ## 2.1 Operating system
 - [CS 140: Operating Systems (Spring 2020)](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php): This class introduces the basic facilities provided by modern operating systems.
+- [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) is a good alternative that’s freely available online. We particularly like the structure and readability of the book, and feel that the exercises are worthwhile.
 ## 2.2 Compiler
-- [CS143 compilers](http://web.stanford.edu/class/cs143/)
+- [The excellent introductory book: Crafting Interpreters](https://craftinginterpreters.com/contents.html)
+- [CS143 compilers](http://web.stanford.edu/class/cs143/): Their knowledge generalizes; they are able to understand the operation of a new language more deeply and quickly than those who have merely learned specific languages.
 - [Compiler Explorer](https://godbolt.org/z/bWe77x): Compiler Explorer is a handy website that lets you quickly write C code and see its assembly translation.
 ## 2.3 Computer network
 - [CS 144: Introduction to Computer Networking, Fall 2020](https://cs144.github.io/)
+- [Computer Networking: A Top-Down Approach](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf) is our favorite book on this topic. The small projects and exercises in the book are well worth doing, and we particularly like the [“Wireshark labs”](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm).
 ## 2.4 Algorithm
 - [DESIGN AND ANALYSIS OF ALGORITHMS](http://web.stanford.edu/class/cs161/): This course will cover the basic approaches and mindsets for analyzing and designing algorithms and data structures. Topics include the following: Worst and average case analysis. Recurrences and asymptotics. 
+
+My preferred approach is to solve problems on Leetcode, some instructions are as follows:
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm): Crack LeetCode, not only how, but also why.
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.
+
+Finally, we strongly recommend [How to Solve It](https://www.semanticscholar.org/paper/How-to-Solve-It.-A-New-Aspect-of-Mathematical-Bell-P%C3%B3lya/a161c79a03add75b74e4b4dc896b7c5c9b1cc5c3) as an excellent and unique guide to general problem solving; it’s as applicable to computer science as it is to mathematics
 ## 2.5 Computer/Digital system design/architecture
 - [CS110 Principles of Computer Systems](http://web.stanford.edu/class/cs110/): Principles and practice of engineering of computer software and hardware systems. Topics include: techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; atomicity and coordination of parallel activities. Besides, I also recommend to use this book--[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
 ## 2.6 Database
+One paper particularly worth mentioning for new students is [“Architecture of a Database System”](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf), which uniquely provides a high-level view of how relational database management systems (RDBMS) work. This will serve as a useful skeleton for further study. And for courses,
 - [Data Management and Data Systems](https://cs145-fa19.github.io/): This course covers how to use databases in applications, first principles on how to scale for large data sets and how to design good data systems.
 
 
 
 ## Complementary
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Guides: Teach Yourself Computer Science](https://ozwrites.com/)
 - [CS 学生学习历程](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/CS_MUST.md)
 
 
