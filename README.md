@@ -5,7 +5,9 @@
 - [CS106B Programming Abstractions](https://web.stanford.edu/class/cs106b/): this is a basic/introductory course from Stanford whose content includes knowledge of object-oriented programming, data structures (collections, graphs, etc.).
 - [Computer Organization & Systems](http://web.stanford.edu/class/cs107/): CS107 is the third course in Stanford's introductory programming sequence. The CS106 courses provide you with a solid foundation in programming methodology and abstractions, and CS107 follows on this to build up and expand your breadth and depth of programming experience and techniques. The course will work from the C programming language down to the microprocessor to de-mystify the machine.
 - [Mathematical foundations of computing](http://web.stanford.edu/class/archive/cs/cs103/cs103.1184/): This course is about mathematical techniques that are useful in computer science, to analyze algorithms and prove impossibility results. The course has four parts: (1) introduction to the kind of discrete mathematics that is useful in computer science, including sets, graphs and proofs by induction; (2) finite automata, which model simple linear-time algorithms and capture the power of regular expressions — we will be able to understand the power and limitation of this class of algorithms inside out; (3) turing machines and undecidability, in which we study the power of arbitrary algorithms that are allowed arbitrarily large running times — we will show that there are several important problems that are unsolvable even under such conditions; (4) complexity theory and NP-completeness, which is concerned with the study of what we can do with efficient algorithms. I think it is very important to grasp that how to write paper mathematically by reading these two--[Mathematical Writing](https://jmlr.org/reviewing-papers/knuth_mathematical_writing.pdf) and [Some Remarks on Writing Mathematical Proofs](https://sites.math.washington.edu/~lee/Writing/writing-proofs.pdf)
-- [CS110 Principles of Computer Systems](http://web.stanford.edu/class/cs110/): Principles and practice of engineering of computer software and hardware systems. Topics include: techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; atomicity and coordination of parallel activities. Besides, I also recommend to use this book--[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+- [Simple overview of Computer Science](https://www.bilibili.com/video/av21376839/): this video is a chinese-version introduction of computer science, short but comprehensive.
+
+
 
 # 1. Mathematical Background
 ## 1.1 Calculus
@@ -18,9 +20,10 @@
 Besides, as the course is too long, people have to spend a lot of time following it, there are some lecture notes which could help you have an overview of probalistic quickly.
 - [Probability Theory: STAT310/MATH230](https://statweb.stanford.edu/~adembo/stat-310b/lnotes.pdf)
 - [Probability for first year mathematicians at Cambridge in winter 2015](http://www.statslab.cam.ac.uk/~rrw1/prob/index.html)
-
 ## 1.4 Statistic
 This course from MIT, named [Statistics for Applications (video)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm). This course offers an in-depth the theoretical foundations for statistical methods that are useful in many applications. The goal is to understand the role of mathematics in the research and development of efficient statistical methods. And for people who prefer slides, this [Site](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) may could help you, and chinese version [blog](https://zhuanlan.zhihu.com/p/29758751).
+
+
 
 # 2. Core Course in Computer Science
 ## 2.1 Operating system
@@ -35,9 +38,11 @@ This course from MIT, named [Statistics for Applications (video)](https://ocw.mi
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm): Crack LeetCode, not only how, but also why.
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.
 ## 2.5 Computer/Digital system design/architecture
-- [计算机组原+原理相关](https://www.bilibili.com/video/av21376839/)
+- [CS110 Principles of Computer Systems](http://web.stanford.edu/class/cs110/): Principles and practice of engineering of computer software and hardware systems. Topics include: techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; atomicity and coordination of parallel activities. Besides, I also recommend to use this book--[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
 ## 2.6 Database
 - [Data Management and Data Systems](https://cs145-fa19.github.io/): This course covers how to use databases in applications, first principles on how to scale for large data sets and how to design good data systems.
+
+
 
 ## Complementary
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
