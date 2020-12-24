@@ -1,4 +1,9 @@
 # Learning-of-Computer-Science
+First, I prefer to have a overview of a new topic I am ready to learn. This picture illustrates almost all of the areas related to computer science and there is a short [video](https://www.youtube.com/watch?v=SzJ46YA_RaA) talking about it. 
+![image](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/large.png)
+Besides, one well known subject classification system for computer science is the ACM Computing Classification System devised by the Association for Computing Machinery from the [Wiki](https://en.wikipedia.org/wiki/Outline_of_computer_science).
+
+
 
 # 0. Basic/Introduction
 - [CS50](https://cs50.harvard.edu/college/2020/fall/#:~:text=Introduction%20to%20the%20intellectual%20enterprises%20of%20computer%20science%20and%20the%20art%20of%20programming.): Introduction to the intellectual enterprises of computer science and the art of programming. 
