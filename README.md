@@ -58,9 +58,5 @@ One paper particularly worth mentioning for new students is [“Architecture of 
 
 
 
-## Complementary
+## 3. Complementary
 - [Guides: Teach Yourself Computer Science](https://ozwrites.com/)
-- [CS 学生学习历程](https://github.com/Billy1900/Learning-of-Computer-Science/blob/master/CS_MUST.md)
-
-
-
