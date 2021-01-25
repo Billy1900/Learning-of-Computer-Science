@@ -65,3 +65,4 @@ One paper particularly worth mentioning for new students is [“Architecture of 
 
 ## 3. Complementary
 - [Guides: Teach Yourself Computer Science](https://ozwrites.com/)
+- Besides, every programmer should learn how to use git, and this is the most visual and interactive way to learn Git on the web--["Learn Git Branching"](https://learngitbranching.js.org/)
