@@ -53,6 +53,7 @@ For a more advanced treatment, we suggest [Mathematics for Computer Science](htt
 My preferred approach is to solve problems on Leetcode, some instructions are as follows:
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm): Crack LeetCode, not only how, but also why.
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): Demonstrate all the questions on LeetCode in the form of animation.
+- [labuladong](https://labuladong.gitbook.io/algo-en/v/master/): very friendly for beginners, highly recommend!
 
 Finally, we strongly recommend [How to Solve It](https://www.semanticscholar.org/paper/How-to-Solve-It.-A-New-Aspect-of-Mathematical-Bell-P%C3%B3lya/a161c79a03add75b74e4b4dc896b7c5c9b1cc5c3) as an excellent and unique guide to general problem solving; it’s as applicable to computer science as it is to mathematics
 ## 2.5 Computer/Digital system design/architecture
