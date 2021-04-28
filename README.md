@@ -62,8 +62,10 @@ Finally, we strongly recommend [How to Solve It](https://www.semanticscholar.org
 One paper particularly worth mentioning for new students is [“Architecture of a Database System”](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf), which uniquely provides a high-level view of how relational database management systems (RDBMS) work. This will serve as a useful skeleton for further study. And for courses,
 - [Data Management and Data Systems](https://cs145-fa19.github.io/): This course covers how to use databases in applications, first principles on how to scale for large data sets and how to design good data systems.
 
+## 3. Tools/Skills
+- Git
+  - [Learn git games](https://learngitbranching.js.org/)
 
-
-## 3. Complementary
+## 4. Complementary
 - [Guides: Teach Yourself Computer Science](https://ozwrites.com/)
 - Besides, every programmer should learn how to use git, and this is the most visual and interactive way to learn Git on the web--["Learn Git Branching"](https://learngitbranching.js.org/)
