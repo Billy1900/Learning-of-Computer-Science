@@ -71,3 +71,5 @@ One paper particularly worth mentioning for new students is [“Architecture of 
 - [5 Common System Design Concepts for Interview Preparation](https://www.geeksforgeeks.org/5-common-system-design-concepts-for-interview-preparation/)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [Grokking system design](https://www.educative.io/courses/grokking-the-system-design-interview): System design questions have become a standard part of the software engineering interview process. Performance in these interviews reflects upon your ability to work with complex systems and translates into the position and salary the interviewing company offers you. And I take [some notes](Grokking_System_Design.docx) which might be helpful.
+### Coding Style
+- [Google Style Guides](https://github.com/google/styleguide)
