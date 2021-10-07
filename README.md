@@ -74,3 +74,6 @@ One paper particularly worth mentioning for new students is [“Architecture of 
 - [Blog.Core](https://github.com/anjoy8/Blog.Core/blob/master/README-en.md) is an enterprise-class back-to-back separation framework for.NET Core5.0 API + Vue 2.x + RBAC. 
 ### Coding Style
 - [Google Style Guides](https://github.com/google/styleguide)
+### Computer Architecture
+- [Simple Computer](https://github.com/djhworld/simple-computer): Starting from NAND gates, and moving up through to registers, RAM, the ALU, the control unit and adding I/O support, I eventually ended up with a fully functional machine. For a write up about this project, see [blog post](https://djharper.dev/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/) about it here
+
