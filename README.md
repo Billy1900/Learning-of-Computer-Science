@@ -67,6 +67,7 @@ One paper particularly worth mentioning for new students is [“Architecture of 
 ## 3. Complementary
 ### Makefile
 - [A simple Makefile tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/): Makefiles are a simple way to organize code compilation. This tutorial does not even scratch the surface of what is possible using make, but is intended as a starters guide so that you can quickly and easily create your own makefiles for small to medium-sized projects.
+- [Makefile Tutorial By Example](https://makefiletutorial.com/)
 ### Git
 - [Learn git games](https://learngitbranching.js.org/)
 ### System Design
